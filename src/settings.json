@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover how life becomes better when work is more than just a job. Turn your career into a journey of fulfillment and purpose.",
+        "title": "Workd: Transform Your Daily Grind into a Passionate Pursuit"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover how life becomes better when work is more than just a job. Turn your career into a journey of fulfillment and purpose.",
+        "title": "Workd: Transform Your Daily Grind into a Passionate Pursuit"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover how life becomes better when work is more than just a job. Turn your career into a journey of fulfillment and purpose.",
+        "title": "Workd: Transform Your Daily Grind into a Passionate Pursuit"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover how life becomes better when work is more than just a job. Turn your career into a journey of fulfillment and purpose.",
+        "title": "Workd: Transform Your Daily Grind into a Passionate Pursuit"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover how life becomes better when work is more than just a job. Turn your career into a journey of fulfillment and purpose.",
+        "title": "Workd: Transform Your Daily Grind into a Passionate Pursuit"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover how life becomes better when work is more than just a job. Turn your career into a journey of fulfillment and purpose.",
+        "title": "Workd: Transform Your Daily Grind into a Passionate Pursuit"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover how life becomes better when work is more than just a job. Turn your career into a journey of fulfillment and purpose.",
+        "title": "Workd: Transform Your Daily Grind into a Passionate Pursuit"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover how life becomes better when work is more than just a job. Turn your career into a journey of fulfillment and purpose.",
+        "title": "Workd: Transform Your Daily Grind into a Passionate Pursuit"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover how life becomes better when work is more than just a job. Turn your career into a journey of fulfillment and purpose.",
+        "title": "Workd: Transform Your Daily Grind into a Passionate Pursuit"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Workd: Transform Your Daily Grind into a Passionate Pursuit",
+  "subtitle": "Discover how life becomes better when work is more than just a job. Turn your career into a journey of fulfillment and purpose."
+}
